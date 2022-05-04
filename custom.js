@@ -7,6 +7,6 @@ window.onload = function() {
     container: 'map', // container ID
     style: 'mapbox://styles/aatreyidutt/cl2rdcs7f003i14mfihnmswkd', // style URL
     center: [77.0688997, 20.5272803], // starting position [lng, lat]
-    zoom: 3 // starting zoom
+    zoom: 1 // starting zoom
   });
 };
