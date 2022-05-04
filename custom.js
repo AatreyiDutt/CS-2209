@@ -6,7 +6,7 @@ window.onload = function() {
   const map = new mapboxgl.Map({
     container: 'map', // container ID
     style: 'mapbox://styles/aatreyidutt/cl2rdcs7f003i14mfihnmswkd', // style URL
-    center: [77.0688997, 20.5272803], // starting position [lng, lat]
+    center: [78.0688997, 24.5272803], // starting position [lng, lat]
     zoom: 1 // starting zoom
   });
 };
